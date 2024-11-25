@@ -36,5 +36,19 @@ https://github.com/user-attachments/assets/019f3cd7-50c8-412e-9e87-eeeb47705cd4
 https://github.com/user-attachments/assets/95b3f3e7-2f69-4bed-b1e6-1e8264a8c4a8
 
 Describe any challenges encountered while building the app.
-
+Notes:
 Hardest part was to get this on the first extension. Like oh boy I never speedrun a project as fast as this one. Seriously that was after coffee after coffee, and somehow no rest, and I have ADHD (i think, i get too distracted on literally anything). But hey, I pulled it off, even made a bonus, and even used a colorscheme, it just works. I wish I had more time tho. Like I wanted to make two game modes, the simple Wordle and the actual true Wordle. Lets hope I don't mess it up on next project, the adrenaline rush was cool but holy cow I don't wanna repeat that.
+License:
+Copyright 2024 Angel L Garcia
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
