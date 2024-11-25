@@ -1,5 +1,4 @@
-# Wordle
-Project-1 
+# Wordle 
 Android Project 1 - Wordle Speedrun
 Submitted by: Shakil Ahmed Faisal
 
