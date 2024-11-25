@@ -27,4 +27,14 @@ The following additional features are implemented:
 Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
- Recording.2024-03-02.150506.mp4 
+ 
+
+https://github.com/user-attachments/assets/019f3cd7-50c8-412e-9e87-eeeb47705cd4
+
+
+
+https://github.com/user-attachments/assets/95b3f3e7-2f69-4bed-b1e6-1e8264a8c4a8
+
+Describe any challenges encountered while building the app.
+
+Hardest part was to get this on the first extension. Like oh boy I never speedrun a project as fast as this one. Seriously that was after coffee after coffee, and somehow no rest, and I have ADHD (i think, i get too distracted on literally anything). But hey, I pulled it off, even made a bonus, and even used a colorscheme, it just works. I wish I had more time tho. Like I wanted to make two game modes, the simple Wordle and the actual true Wordle. Lets hope I don't mess it up on next project, the adrenaline rush was cool but holy cow I don't wanna repeat that.
